@@ -1,0 +1,7 @@
+.cabal-sandbox
+*.o
+*.hi
+/dist/
+/cabal.sandbox.config
+/blocks
+/blocks.txt
